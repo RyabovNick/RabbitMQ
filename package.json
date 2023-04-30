@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/RyabovNick/RabbitMQ#readme",
   "dependencies": {
-    "amqplib": "^0.5.3"
+    "amqplib": "^0.10.3"
   }
 }
